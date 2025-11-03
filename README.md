@@ -11,7 +11,7 @@ It was trained and evaluated using a subset of the **VGGFace2 dataset**.
 ### 1️⃣ Clone / Extract Project
 Download or clone this repository:
 ```bas
-git clone <your_repo_link>
+git clone https://github.com/kirubakaran2110/face-recognition-model.git
 cd face_recognition
 ```
 2️⃣ Install Dependencies
